@@ -1,0 +1,37 @@
+_repo: Du-suffrage-universel-et-de-la-maniere-de-voter_60828
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taine, Hippolyte
+    aliases:
+    - Taine, Hippolyte Adolphe
+    - Taine, H. A. (Hippolyte Adolphe)
+    - Graindorge, Frederic-Thomas
+    - Graindorge, Frédéric-Thomas
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '969'
+    url: http://www.gutenberg.org/2009/agents/969
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Hippolyte_Taine
+    - http://en.wikipedia.org/wiki/Hippolyte_Taine
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Politique
+gutenberg_issued: '2019-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60828'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elections -- France'
+- !lcc 'JN'
+- !lcsh 'Representative government and representation'
+- !lcsh 'Suffrage -- France'
+- GITenberg
+title: Du suffrage universel et de la manière de voter
+url: http://www.gutenberg.org/ebooks/60828
